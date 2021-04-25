@@ -1,6 +1,4 @@
-<h5>JAVA 개발자</h5><br>
-SpringFramework
-SpringBoot
+<h5>JAVA ,SpringFramework, SpringBoot<h5>
 
 
 
