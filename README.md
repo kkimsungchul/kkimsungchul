@@ -11,8 +11,10 @@ JAVA Developer
 <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/DB-postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
 
+<b>Framework</b>
+<img src="https://img.shields.io/badge/Framework-SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Framework-springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 <b>tools</b><br>
-<img src="https://img.shields.io/badge/Tools-SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Tools-Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-jirasoftware-0052CC.svg?&style=flat-square&logo=jirasoftware&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-mattermost-0058CC.svg?&style=flat-square&logo=mattermost&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-github-181717.svg?&style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-gitlab-FCA121.svg?&style=flat-square&logo=gitlab&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-git-F05032.svg?&style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 
