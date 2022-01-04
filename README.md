@@ -11,7 +11,7 @@ JAVA Developer
 <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/DB-postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
 
-<b>Framework</b>
+<b>Framework</b><br>
 <img src="https://img.shields.io/badge/Framework-SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Framework-springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <b>tools</b><br>
