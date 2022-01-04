@@ -4,7 +4,7 @@ JAVA Developer
 <img src="https://img.shields.io/badge/OS-linux-FCC624?style=flat-square&logo=linux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/OS-windows-0078D6?style=flat-square&logo=windows&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <b>Skills</b><br>
-<img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Code-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Code-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Code-thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
@@ -12,6 +12,7 @@ JAVA Developer
 <br>
 
 <b>tools</b><br>
+<img src="https://img.shields.io/badge/Tools-SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Tools-Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-jirasoftware-0052CC.svg?&style=flat-square&logo=jirasoftware&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-mattermost-0058CC.svg?&style=flat-square&logo=mattermost&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-github-181717.svg?&style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-gitlab-FCA121.svg?&style=flat-square&logo=gitlab&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/Tools-git-F05032.svg?&style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 
