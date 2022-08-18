@@ -48,3 +48,6 @@ curl -X POST "https://2e98-2001-2d8-e2ab-a34c-642d-e9db-152c-4d22.jp.ngrok.io/au
 --data-urlencode "client_secret=JBFLaz1mgZKPwYNqE9Tfyf0c3b2mnkOl" ^
 --data-urlencode "username=sungchul" ^
 --data-urlencode "password=admin"
+
+
+https://2e98-2001-2d8-e2ab-a34c-642d-e9db-152c-4d22.jp.ngrok.io/auth/realms/demo/account/
