@@ -36,3 +36,15 @@ Here are some ideas to get you started:
 -->
 <br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkimsungchul&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+curl -X POST "https://2e98-2001-2d8-e2ab-a34c-642d-e9db-152c-4d22.jp.ngrok.io/auth/realms/demo/protocol/openid-connect/token" ^
+--header "Content-Type:application/x-www-form-urlencoded" ^
+--data-urlencode "grant_type=password" ^
+--data-urlencode "client_id=my_client" ^
+--data-urlencode "client_secret=JBFLaz1mgZKPwYNqE9Tfyf0c3b2mnkOl" ^
+--data-urlencode "username=sungchul" ^
+--data-urlencode "password=admin"
