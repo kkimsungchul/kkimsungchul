@@ -1,5 +1,7 @@
 JAVA Developer
 
+<b>Blog : https://kkimsungchul.github.io/<b>
+
 <b>OS</b><br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;<img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
